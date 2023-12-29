@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @BlueishPigeon
-- 👀 I’m interested in some codes and maybe creating codes
-- 🌱 I’m currently learning nothing, but maybe sometime i go learn something
-- 💞️ I’m looking to collaborate on no one but sometime go collab
-- 📫 How to reach me good coding skills?
+u opened file readme.md👏👍
 
 <!---
 BlueishPigeon/BlueishPigeon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
